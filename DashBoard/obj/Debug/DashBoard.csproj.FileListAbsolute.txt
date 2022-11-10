@@ -1,0 +1,9 @@
+C:\Users\AIMI\Desktop\My_Project\CODE\little_program\DashBoard\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\AIMI\Desktop\My_Project\CODE\little_program\DashBoard\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\AIMI\Desktop\My_Project\CODE\little_program\DashBoard\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\AIMI\Desktop\My_Project\CODE\little_program\DashBoard\DashBoard\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\AIMI\Desktop\My_Project\CODE\little_program\DashBoard\DashBoard\obj\Debug\DashBoard.csproj.AssemblyReference.cache
+C:\Users\AIMI\Desktop\My_Project\CODE\little_program\DashBoard\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+C:\Users\AIMI\Desktop\My_Project\CODE\little_program\DashBoard\DashBoard\obj\Debug\DashBoard.csproj.CopyComplete
+C:\Users\AIMI\Desktop\My_Project\CODE\little_program\DashBoard\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\AIMI\Desktop\My_Project\CODE\little_program\DashBoard\DashBoard\obj\Debug\DashBoard.pdb
